@@ -16,7 +16,7 @@ For this part of the terminal
 
 '.config/starship.toml'
 
-There you have to paste the code that is on this repo on "For starship.toml"
+##There you have to paste the code that is on this repo on "For starship.toml"
 -------------------------------------------------------
 ##For this part of the terminal
 -------------------------------------------------------
