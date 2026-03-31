@@ -13,7 +13,9 @@ There you have to paste the code that is on this repo on "For starship.toml"
 -------------------------------------------------------
 For this part of the terminal
 -------------------------------------------------------
+
 <img width="742" height="353" alt="image" src="https://github.com/user-attachments/assets/8e5dca1e-bfeb-421b-aad8-5cc67cc7ab93" />
+
 -------------------------------------------------------
 You need fastfetch.
 
