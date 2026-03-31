@@ -12,11 +12,11 @@ For this part of the terminal
 <img width="298" height="44" alt="image" src="https://github.com/user-attachments/assets/e30f908d-ab69-447f-811a-9e6a8f4014b2" />
 
 -------------------------------------------------------
-##You must have starship, and have starship.toml that you cand find on 
+## You must have starship, and have starship.toml that you cand find on 
 
 '.config/starship.toml'
 
-##There you have to paste the code that is on this repo on "For starship.toml"
+## There you have to paste the code that is on this repo on "For starship.toml"
 -------------------------------------------------------
 ##For this part of the terminal
 -------------------------------------------------------
